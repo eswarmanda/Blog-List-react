@@ -1,0 +1,12 @@
+.user-profile {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+}
+.dp {
+  height: 150px;
+}
+.user-name{
+font-size: larger;
+}
